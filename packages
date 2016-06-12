@@ -5,6 +5,9 @@ network-manager-applet
 xfce4-notifyd
 gnome-icon-theme
 redshift
+python-gobject
+python-xdg
+librsvg
 ttf-hack
 numix-icon-theme-git
 obmenuobmenu-generator
