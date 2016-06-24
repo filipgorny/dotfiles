@@ -1,0 +1,28 @@
+[global_config]
+  inactive_color_offset = 1.0
+  suppress_multiple_term_dialog = True
+[keybindings]
+  go_next = <Primary><Shift>n
+  go_prev = <Primary><Shift>p
+[layouts]
+  [[default]]
+    [[[child1]]]
+      parent = window0
+      profile = default
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      type = Window
+[plugins]
+[profiles]
+  [[default]]
+    background_darkness = 0.94
+    background_image = None
+    font = Hack 11
+    foreground_color = "#e3e3e3"
+    show_titlebar = False
+    urgent_bell = True
+    use_system_font = False
+  [[New Profile]]
+    background_image = None
+    foreground_color = "#e53c00"

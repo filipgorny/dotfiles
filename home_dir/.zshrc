@@ -53,7 +53,7 @@ plugins=(git symfony2 npm emoji archlinux systemd mercurial)
 
 # User configuration
 
-  export PATH="/home/filip/Applications/.bin:/usr/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/filip/sbin/"
+  export PATH="/home/filip/Applications/.bin:/usr/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/filip/bin/"
 # export MANPATH="/usr/local/man:$MANPATH"
 
 source $ZSH/oh-my-zsh.sh
@@ -85,3 +85,4 @@ source $ZSH/oh-my-zsh.sh
 
 TERM=xterm-256color
 
+eval $(thefuck --alias)

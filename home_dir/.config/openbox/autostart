@@ -1,0 +1,10 @@
+~/dotfiles/sh/xrandr.sh
+compton --config ~/.config/compton.conf -b
+tint2 &
+nm-applet &
+terminator -m &
+google-chrome-stable &
+redshift-gtk &
+volumeicon &
+conky &
+
