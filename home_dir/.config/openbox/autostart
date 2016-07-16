@@ -6,5 +6,8 @@ terminator -m &
 google-chrome-stable &
 redshift-gtk &
 volumeicon &
-conky &
+skype &
+#conky &
+dropbox &
+pcmanfm --desktop &
 

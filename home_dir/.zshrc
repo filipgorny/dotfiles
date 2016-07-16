@@ -5,7 +5,7 @@
 # Look in ~/.oh-my-zsh/themes/
 # Optionally, if you set this to "random", it'll load a random theme each
 # time that oh-my-zsh is loaded.
-ZSH_THEME="steeef"
+ZSH_THEME="steeef-custom"
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
@@ -86,3 +86,9 @@ source $ZSH/oh-my-zsh.sh
 TERM=xterm-256color
 
 eval $(thefuck --alias)
+
+alias cdoro="cd ~/Projects/oro/oro_monolithic_dev/application/commerce"
+alias sfcc="app/console clear:cache"
+alias sfcctest="app/console clear:cache --env=test --no-debug"
+alias sfstart="app/console server:run localhost:8000"
+

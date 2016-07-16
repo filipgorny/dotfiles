@@ -18,4 +18,8 @@ xarchiver
 python-virtualenv
 fuck
 conky
+transmission-gtk
+gvfs-afc
+thunar
+thunar-volman
 

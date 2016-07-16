@@ -16,7 +16,7 @@
 [plugins]
 [profiles]
   [[default]]
-    background_darkness = 0.94
+    background_darkness = 0.8
     background_image = None
     font = Hack 11
     foreground_color = "#e3e3e3"
