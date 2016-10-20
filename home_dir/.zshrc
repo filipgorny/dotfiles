@@ -91,4 +91,5 @@ alias cdoro="cd ~/Projects/oro/oro_monolithic_dev/application/commerce"
 alias sfcc="app/console clear:cache"
 alias sfcctest="app/console clear:cache --env=test --no-debug"
 alias sfstart="app/console server:run localhost:8000"
-
+alias cdcenter="cd ~/Projects/devell/center"
+alias sfrmcache="rm ./app/cache/test -Rf && rm ./app/cache/dev -Rf"

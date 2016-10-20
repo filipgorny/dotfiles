@@ -20,6 +20,8 @@
     background_image = None
     font = Hack 11
     foreground_color = "#e3e3e3"
+    scroll_on_output = False
+    scrollback_infinite = True
     show_titlebar = False
     urgent_bell = True
     use_system_font = False
