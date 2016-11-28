@@ -78,7 +78,8 @@
             "banshee",
             "vlc",
             "audacious",
-            "spotify"
+            "spotify",
+            "org.kde.dragonplayer"
         ]
     },
     "__md5__": "59367c467d00034c7a3ab517fbb263dc"
