@@ -34,11 +34,11 @@ menu.items.active.text.color:#00ffff
 !! window title
 window.active.title.bg: flat gradient vertical
 window.active.title.bg.color: #111111
-window.active.title.bg.colorTo: #040404
+window.active.title.bg.colorTo: #111111
 
 
 window.inactive.title.bg: flat gradient vertical
-window.inactive.title.bg.color:  #040404
+window.inactive.title.bg.color:  #010101
 window.inactive.title.bg.colorTo:  #010101
 
 

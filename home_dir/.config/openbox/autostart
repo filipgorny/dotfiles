@@ -1,4 +1,4 @@
-~/dotfiles/sh/xrandr.sh
+xrandr --dpi 120
 compton --config ~/.config/compton.conf -b
 tint2 &
 nm-applet &
