@@ -16,15 +16,15 @@
 [plugins]
 [profiles]
   [[default]]
-    background_darkness = 0.8
-    background_image = None
+    background_darkness = 0.95
+    background_type = transparent
+    cursor_color = "#e3e3e3"
     font = Hack 11
     foreground_color = "#e3e3e3"
-    scroll_on_output = False
+    palette = "#000000:#aa0000:#00aa00:#aa5500:#0000aa:#aa00aa:#00aaaa:#aaaaaa:#555555:#ff5555:#55ff55:#ffff55:#5555ff:#ff55ff:#55ffff:#ffffff"
     scrollback_infinite = True
     show_titlebar = False
     urgent_bell = True
     use_system_font = False
   [[New Profile]]
-    background_image = None
     foreground_color = "#e53c00"
